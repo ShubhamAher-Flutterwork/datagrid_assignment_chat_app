@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "509500158435",
+    "project_id": "fir-chatapp-3f544",
+    "storage_bucket": "fir-chatapp-3f544.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509500158435:android:99cf55267294cf218f70d6",
+        "android_client_info": {
+          "package_name": "com.datagrid.chat.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_uf3YYrFYjrhC5JnV1rjKNUJT0WNbuFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
